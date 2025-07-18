@@ -1,0 +1,9 @@
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\bin\Debug\negociossA.dll
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\bin\Debug\negociossA.pdb
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\bin\Debug\datosf.dll
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\bin\Debug\datosf.pdb
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\obj\Debug\negociossA.csproj.AssemblyReference.cache
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\obj\Debug\negociossA.csproj.CoreCompileInputs.cache
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\obj\Debug\negociossA.csproj.Up2Date
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\obj\Debug\negociossA.dll
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\negociossA\obj\Debug\negociossA.pdb

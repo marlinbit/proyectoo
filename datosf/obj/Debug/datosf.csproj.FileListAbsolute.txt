@@ -1,0 +1,6 @@
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\bin\Debug\datosf.dll
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\bin\Debug\datosf.pdb
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\obj\Debug\datosf.csproj.AssemblyReference.cache
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\obj\Debug\datosf.csproj.CoreCompileInputs.cache
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\obj\Debug\datosf.dll
+C:\Users\Marlin Sena\Desktop\Nueva carpeta\datosf\obj\Debug\datosf.pdb
